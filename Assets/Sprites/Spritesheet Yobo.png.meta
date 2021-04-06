@@ -1,0 +1,2410 @@
+fileFormatVersion: 2
+guid: aa9777bd1769ee34aabca558dbee8ed8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1712293118162589861
+    second: Spritesheet Yobo_0
+  - first:
+      213: -194057750963249085
+    second: Spritesheet Yobo_1
+  - first:
+      213: 6839369244084641036
+    second: Spritesheet Yobo_2
+  - first:
+      213: 6132416588878359131
+    second: Spritesheet Yobo_3
+  - first:
+      213: 6433461833714945
+    second: Spritesheet Yobo_4
+  - first:
+      213: -4687511180107190507
+    second: Spritesheet Yobo_5
+  - first:
+      213: 5107513195819791064
+    second: Spritesheet Yobo_6
+  - first:
+      213: -6693248258240044593
+    second: Spritesheet Yobo_7
+  - first:
+      213: -4669408608984551327
+    second: Spritesheet Yobo_8
+  - first:
+      213: 7002410471969782710
+    second: Spritesheet Yobo_9
+  - first:
+      213: -6176789312771621118
+    second: Spritesheet Yobo_10
+  - first:
+      213: 7746835485390244083
+    second: Spritesheet Yobo_11
+  - first:
+      213: -8844444151496874421
+    second: Spritesheet Yobo_12
+  - first:
+      213: -5577891130007487026
+    second: Spritesheet Yobo_13
+  - first:
+      213: 6625318770253987224
+    second: Spritesheet Yobo_14
+  - first:
+      213: 371455364065817637
+    second: Spritesheet Yobo_15
+  - first:
+      213: -770465620067747830
+    second: Spritesheet Yobo_16
+  - first:
+      213: -3224969620615907735
+    second: Spritesheet Yobo_17
+  - first:
+      213: -7525698943294054818
+    second: Spritesheet Yobo_18
+  - first:
+      213: -8365258488461745642
+    second: Spritesheet Yobo_19
+  - first:
+      213: 2937087507726987340
+    second: Spritesheet Yobo_20
+  - first:
+      213: -8836584457077514423
+    second: Spritesheet Yobo_21
+  - first:
+      213: 7081951408531135599
+    second: Spritesheet Yobo_22
+  - first:
+      213: 8066848668356152658
+    second: Spritesheet Yobo_23
+  - first:
+      213: -4672501074880571788
+    second: Spritesheet Yobo_24
+  - first:
+      213: -5852754971117322038
+    second: Spritesheet Yobo_25
+  - first:
+      213: -3890755832832312790
+    second: Spritesheet Yobo_0
+  - first:
+      213: -1319274445929087678
+    second: Spritesheet Yobo_1
+  - first:
+      213: -6264289114956670699
+    second: Spritesheet Yobo_2
+  - first:
+      213: 5595210813255736889
+    second: Spritesheet Yobo_3
+  - first:
+      213: -3778283255409220769
+    second: Spritesheet Yobo_4
+  - first:
+      213: 1943207930516392322
+    second: Spritesheet Yobo_5
+  - first:
+      213: -3774981962586738862
+    second: Spritesheet Yobo_6
+  - first:
+      213: 2680010867028122114
+    second: Spritesheet Yobo_7
+  - first:
+      213: 577276464642640841
+    second: Spritesheet Yobo_8
+  - first:
+      213: -2475109430271874661
+    second: Spritesheet Yobo_9
+  - first:
+      213: -1467231674946494007
+    second: Spritesheet Yobo_10
+  - first:
+      213: 1921247542791963050
+    second: Spritesheet Yobo_11
+  - first:
+      213: 6499078780395654222
+    second: Spritesheet Yobo_12
+  - first:
+      213: 839760208182273044
+    second: Spritesheet Yobo_13
+  - first:
+      213: 8751253692068087652
+    second: Spritesheet Yobo_14
+  - first:
+      213: -7212451290111402070
+    second: Spritesheet Yobo_15
+  - first:
+      213: -2298010267742988495
+    second: Spritesheet Yobo_16
+  - first:
+      213: 1765946871624721607
+    second: Spritesheet Yobo_17
+  - first:
+      213: -7650055199642285000
+    second: Spritesheet Yobo_18
+  - first:
+      213: -1415501007764086263
+    second: Spritesheet Yobo_19
+  - first:
+      213: 993018307428009754
+    second: Spritesheet Yobo_20
+  - first:
+      213: -1526524490889182102
+    second: Spritesheet Yobo_21
+  - first:
+      213: -7589415774332469615
+    second: Spritesheet Yobo_22
+  - first:
+      213: -9174529376381750334
+    second: Spritesheet Yobo_23
+  - first:
+      213: -8406499594910422741
+    second: Spritesheet Yobo_24
+  - first:
+      213: 8009123344527928692
+    second: Spritesheet Yobo_25
+  - first:
+      213: 3402861420836447857
+    second: Spritesheet Yobo_26
+  - first:
+      213: 4013326303908983737
+    second: Spritesheet Yobo_27
+  - first:
+      213: -220864898616951319
+    second: Spritesheet Yobo_28
+  - first:
+      213: -1802732918581813019
+    second: Spritesheet Yobo_29
+  - first:
+      213: 6058178606216887258
+    second: Spritesheet Yobo_30
+  - first:
+      213: 8135107375447525645
+    second: Spritesheet Yobo_31
+  - first:
+      213: 8438308010821223100
+    second: Spritesheet Yobo_32
+  - first:
+      213: -960478654223927158
+    second: Spritesheet Yobo_33
+  - first:
+      213: -4617808654434152914
+    second: Spritesheet Yobo_34
+  - first:
+      213: -7346098537031422040
+    second: Spritesheet Yobo_35
+  - first:
+      213: 6099934479342870502
+    second: Spritesheet Yobo_36
+  - first:
+      213: -6945227584710226730
+    second: Spritesheet Yobo_37
+  - first:
+      213: 7309057587468118595
+    second: Spritesheet Yobo_38
+  - first:
+      213: -3131604242806894939
+    second: Spritesheet Yobo_39
+  - first:
+      213: 2101717928777543353
+    second: Spritesheet Yobo_40
+  - first:
+      213: -8185543547409933615
+    second: Spritesheet Yobo_41
+  - first:
+      213: 6331930324053860927
+    second: Spritesheet Yobo_42
+  - first:
+      213: 6984536256568883140
+    second: Spritesheet Yobo_43
+  - first:
+      213: -6339802431884369345
+    second: Spritesheet Yobo_44
+  - first:
+      213: -8976517469716556745
+    second: Spritesheet Yobo_45
+  - first:
+      213: 3337333900959042378
+    second: Spritesheet Yobo_46
+  - first:
+      213: 1873127840345629128
+    second: Spritesheet Yobo_47
+  - first:
+      213: -1284038146586945269
+    second: Spritesheet Yobo_48
+  - first:
+      213: 1524754922545909316
+    second: Spritesheet Yobo_49
+  - first:
+      213: -4634370921597223543
+    second: Spritesheet Yobo_50
+  - first:
+      213: 8621930738164710863
+    second: Spritesheet Yobo_51
+  - first:
+      213: 7447888981449774549
+    second: Spritesheet Yobo_52
+  - first:
+      213: 2097996100095046959
+    second: Spritesheet Yobo_53
+  - first:
+      213: -2062429085930206534
+    second: Spritesheet Yobo_54
+  - first:
+      213: 6129488383539246101
+    second: Spritesheet Yobo_55
+  - first:
+      213: 6354130382791844910
+    second: Spritesheet Yobo_56
+  - first:
+      213: 1215158449317566977
+    second: Spritesheet Yobo_57
+  - first:
+      213: -6048821407680426894
+    second: Spritesheet Yobo_58
+  - first:
+      213: -2244108170350245092
+    second: Spritesheet Yobo_59
+  - first:
+      213: -2981068143083757675
+    second: Spritesheet Yobo_60
+  - first:
+      213: 3897713208622340354
+    second: Spritesheet Yobo_61
+  - first:
+      213: 4104614171014962712
+    second: Spritesheet Yobo_62
+  - first:
+      213: -5039032644553945729
+    second: Spritesheet Yobo_63
+  - first:
+      213: 5649942619551632059
+    second: Spritesheet Yobo_64
+  - first:
+      213: 9172280572088156438
+    second: Spritesheet Yobo_65
+  - first:
+      213: -1496515030039545072
+    second: Spritesheet Yobo_66
+  - first:
+      213: 1688095440351009647
+    second: Spritesheet Yobo_67
+  - first:
+      213: -264008945080028282
+    second: Spritesheet Yobo_68
+  - first:
+      213: -77009518026179996
+    second: Spritesheet Yobo_69
+  - first:
+      213: -941736846085447087
+    second: Spritesheet Yobo_70
+  - first:
+      213: 8309416312614784297
+    second: Spritesheet Yobo_71
+  - first:
+      213: -1971254791573807104
+    second: Spritesheet Yobo_72
+  - first:
+      213: -8089660736680142249
+    second: Spritesheet Yobo_73
+  - first:
+      213: 8084030967067500996
+    second: Spritesheet Yobo_74
+  - first:
+      213: -4269286857003177141
+    second: Spritesheet Yobo_75
+  - first:
+      213: 1071429432479056488
+    second: Spritesheet Yobo_76
+  - first:
+      213: 7016867997935482466
+    second: Spritesheet Yobo_77
+  - first:
+      213: 4660226735876631858
+    second: Spritesheet Yobo_78
+  - first:
+      213: 3249546626417614213
+    second: Spritesheet Yobo_79
+  - first:
+      213: 6763363195932477802
+    second: Spritesheet Yobo_80
+  - first:
+      213: 7404508780281333783
+    second: Spritesheet Yobo_81
+  - first:
+      213: -517357084837428598
+    second: Spritesheet Yobo_82
+  - first:
+      213: -2212411412302898989
+    second: Spritesheet Yobo_83
+  - first:
+      213: 5218524925813847077
+    second: Spritesheet Yobo_84
+  - first:
+      213: -723862651699387608
+    second: Spritesheet Yobo_85
+  - first:
+      213: 2424265334237419416
+    second: Spritesheet Yobo_86
+  - first:
+      213: -3143500573562222941
+    second: Spritesheet Yobo_87
+  - first:
+      213: -268251785607556172
+    second: Spritesheet Yobo_88
+  - first:
+      213: 3173288630077542864
+    second: Spritesheet Yobo_89
+  - first:
+      213: 1614647616657988778
+    second: Spritesheet Yobo_90
+  - first:
+      213: -4819587993627410170
+    second: Spritesheet Yobo_91
+  - first:
+      213: -3593316706467205744
+    second: Spritesheet Yobo_92
+  - first:
+      213: -4806658855581678981
+    second: Spritesheet Yobo_93
+  - first:
+      213: 8263027664476696586
+    second: Spritesheet Yobo_94
+  - first:
+      213: -6315449163861894985
+    second: Spritesheet Yobo_95
+  - first:
+      213: 8392144796446376024
+    second: Spritesheet Yobo_96
+  - first:
+      213: 5945853944863472864
+    second: Spritesheet Yobo_97
+  - first:
+      213: 5936189697671832730
+    second: Spritesheet Yobo_98
+  - first:
+      213: -2690172976025230261
+    second: Spritesheet Yobo_99
+  - first:
+      213: -6102046972108506128
+    second: Spritesheet Yobo_100
+  - first:
+      213: 4429762427604296645
+    second: Spritesheet Yobo_101
+  - first:
+      213: 6169005115143056580
+    second: Spritesheet Yobo_102
+  - first:
+      213: 889449061651465450
+    second: Spritesheet Yobo_103
+  - first:
+      213: -1954155870825446676
+    second: Spritesheet Yobo_104
+  - first:
+      213: -7800827250053343389
+    second: Spritesheet Yobo_105
+  - first:
+      213: -5198328291526155177
+    second: Spritesheet Yobo_106
+  - first:
+      213: -5007251624989785004
+    second: Spritesheet Yobo_107
+  - first:
+      213: 3127203298420075459
+    second: Spritesheet Yobo_108
+  - first:
+      213: 8974090031564629120
+    second: Spritesheet Yobo_109
+  - first:
+      213: 1778288758871046950
+    second: Spritesheet Yobo_110
+  - first:
+      213: 5609726435306328034
+    second: Spritesheet Yobo_111
+  - first:
+      213: 5850093978084047002
+    second: Spritesheet Yobo_112
+  - first:
+      213: 3911259162317019849
+    second: Spritesheet Yobo_113
+  - first:
+      213: 933219552530053661
+    second: Spritesheet Yobo_114
+  - first:
+      213: 6124852470980872488
+    second: Spritesheet Yobo_115
+  - first:
+      213: -1091556369419136973
+    second: Spritesheet Yobo_116
+  - first:
+      213: 184925428533534600
+    second: Spritesheet Yobo_117
+  - first:
+      213: 2366680992714079580
+    second: Spritesheet Yobo_118
+  - first:
+      213: -8221335133992047038
+    second: Spritesheet Yobo_119
+  - first:
+      213: 551182625210439552
+    second: Spritesheet Yobo_120
+  - first:
+      213: -2492702885354762834
+    second: Spritesheet Yobo_121
+  - first:
+      213: -541337222568075155
+    second: Spritesheet Yobo_122
+  - first:
+      213: -8911852883106797789
+    second: Spritesheet Yobo_123
+  - first:
+      213: 7782536909308813706
+    second: Spritesheet Yobo_124
+  - first:
+      213: 3201012773067430758
+    second: Spritesheet Yobo_125
+  - first:
+      213: -1846456783459498362
+    second: Spritesheet Yobo_126
+  - first:
+      213: 5745697099891185065
+    second: Spritesheet Yobo_127
+  - first:
+      213: 1305010803268319914
+    second: Spritesheet Yobo_128
+  - first:
+      213: 852772077483534047
+    second: Spritesheet Yobo_129
+  - first:
+      213: -2939437083641019835
+    second: Spritesheet Yobo_130
+  - first:
+      213: 5124201651473196155
+    second: Spritesheet Yobo_131
+  - first:
+      213: -980586581946445927
+    second: Spritesheet Yobo_132
+  - first:
+      213: -4234984703746857370
+    second: Spritesheet Yobo_133
+  - first:
+      213: -1693459923923443310
+    second: Spritesheet Yobo_134
+  - first:
+      213: 5730487474906609741
+    second: Spritesheet Yobo_135
+  - first:
+      213: -3999819623185075500
+    second: Spritesheet Yobo_136
+  - first:
+      213: -2109596923026610336
+    second: Spritesheet Yobo_137
+  - first:
+      213: -3772330773546790160
+    second: Spritesheet Yobo_138
+  - first:
+      213: 9080729954409943633
+    second: Spritesheet Yobo_139
+  - first:
+      213: -1774214532894612523
+    second: Spritesheet Yobo_140
+  - first:
+      213: 2787086584269744225
+    second: Spritesheet Yobo_141
+  - first:
+      213: 1532788820595181106
+    second: Spritesheet Yobo_142
+  - first:
+      213: -4446306051745488333
+    second: Spritesheet Yobo_143
+  - first:
+      213: 1121592707864267129
+    second: Spritesheet Yobo_144
+  - first:
+      213: -2678633169064173742
+    second: Spritesheet Yobo_145
+  - first:
+      213: 4572061838245021532
+    second: Spritesheet Yobo_146
+  - first:
+      213: -5309795142476291654
+    second: Spritesheet Yobo_147
+  - first:
+      213: -4876764687777658766
+    second: Spritesheet Yobo_148
+  - first:
+      213: 1745708554006415223
+    second: Spritesheet Yobo_149
+  - first:
+      213: -3995195679116550527
+    second: Spritesheet Yobo_150
+  - first:
+      213: -8284894182885077473
+    second: Spritesheet Yobo_151
+  - first:
+      213: -4895721769240549527
+    second: Spritesheet Yobo_152
+  - first:
+      213: 8910893299602626714
+    second: Spritesheet Yobo_153
+  - first:
+      213: -6404789727725109675
+    second: Spritesheet Yobo_154
+  - first:
+      213: -8135096861101238909
+    second: Spritesheet Yobo_155
+  - first:
+      213: -7937135286529472039
+    second: Spritesheet Yobo_156
+  - first:
+      213: -990849949346226721
+    second: Spritesheet Yobo_157
+  - first:
+      213: 615366232906690514
+    second: Spritesheet Yobo_158
+  - first:
+      213: 3598335809743018262
+    second: Spritesheet Yobo_159
+  - first:
+      213: 7873627931517582011
+    second: Spritesheet Yobo_160
+  - first:
+      213: 3542426791211728460
+    second: Spritesheet Yobo_161
+  - first:
+      213: 732808198828783523
+    second: Spritesheet Yobo_162
+  - first:
+      213: 5456892643451952639
+    second: Spritesheet Yobo_163
+  - first:
+      213: -9164367378071760090
+    second: Spritesheet Yobo_164
+  - first:
+      213: -6410576990454382097
+    second: Spritesheet Yobo_165
+  - first:
+      213: -8442128352751641416
+    second: Spritesheet Yobo_166
+  - first:
+      213: -7923311894542595017
+    second: Spritesheet Yobo_167
+  - first:
+      213: -6937594406589403060
+    second: Spritesheet Yobo_168
+  - first:
+      213: -1772738424942321629
+    second: Spritesheet Yobo_169
+  - first:
+      213: 7886831147185272700
+    second: Spritesheet Yobo_170
+  - first:
+      213: -2674087311231273498
+    second: Spritesheet Yobo_171
+  - first:
+      213: 553499719730874293
+    second: Spritesheet Yobo_172
+  - first:
+      213: -6759928606406974907
+    second: Spritesheet Yobo_173
+  - first:
+      213: -6464942642412991708
+    second: Spritesheet Yobo_174
+  - first:
+      213: -8900984559575925895
+    second: Spritesheet Yobo_175
+  - first:
+      213: -8079553301200461505
+    second: Spritesheet Yobo_176
+  - first:
+      213: 516380242551208905
+    second: Spritesheet Yobo_177
+  - first:
+      213: -3593256517718889494
+    second: Spritesheet Yobo_178
+  - first:
+      213: 2099794899504863170
+    second: Spritesheet Yobo_179
+  - first:
+      213: 1812720686007971186
+    second: Spritesheet Yobo_180
+  - first:
+      213: -2364172256007557631
+    second: Spritesheet Yobo_181
+  - first:
+      213: -8281997637566733494
+    second: Spritesheet Yobo_182
+  - first:
+      213: -1016766465385394396
+    second: Spritesheet Yobo_183
+  - first:
+      213: 6034988044295195447
+    second: Spritesheet Yobo_184
+  - first:
+      213: 3780262953069581801
+    second: Spritesheet Yobo_185
+  - first:
+      213: 1021083300701617636
+    second: Spritesheet Yobo_186
+  - first:
+      213: -6547241678733816918
+    second: Spritesheet Yobo_187
+  - first:
+      213: 4290263089854332425
+    second: Spritesheet Yobo_188
+  - first:
+      213: -6011208554777872110
+    second: Spritesheet Yobo_189
+  - first:
+      213: 6578235588167232415
+    second: Spritesheet Yobo_190
+  - first:
+      213: -2105320437801039686
+    second: Spritesheet Yobo_191
+  - first:
+      213: -8181141343123025335
+    second: Spritesheet Yobo_192
+  - first:
+      213: 2681730266820493226
+    second: Spritesheet Yobo_193
+  - first:
+      213: -1596243169045217202
+    second: Spritesheet Yobo_194
+  - first:
+      213: -8151818138226000987
+    second: Spritesheet Yobo_195
+  - first:
+      213: -2960240569475635971
+    second: Spritesheet Yobo_196
+  - first:
+      213: -7335643100738311507
+    second: Spritesheet Yobo_197
+  - first:
+      213: 9221471687338845924
+    second: Spritesheet Yobo_198
+  - first:
+      213: -5272726225267480967
+    second: Spritesheet Yobo_199
+  - first:
+      213: 7676514665840393730
+    second: Spritesheet Yobo_200
+  - first:
+      213: -7092596944741527218
+    second: Spritesheet Yobo_201
+  - first:
+      213: 7454501008620694904
+    second: Spritesheet Yobo_202
+  - first:
+      213: -6554078555762056394
+    second: Spritesheet Yobo_203
+  - first:
+      213: 937385273196668370
+    second: Spritesheet Yobo_204
+  - first:
+      213: 5582099516232068827
+    second: Spritesheet Yobo_205
+  - first:
+      213: -3311370332491003973
+    second: Spritesheet Yobo_206
+  - first:
+      213: 1044669668882925813
+    second: Spritesheet Yobo_207
+  - first:
+      213: 4446546639449690442
+    second: Spritesheet Yobo_208
+  - first:
+      213: 9089161905959837914
+    second: Spritesheet Yobo_209
+  - first:
+      213: -2885757061557197506
+    second: Spritesheet Yobo_210
+  - first:
+      213: -5132162192809885927
+    second: Spritesheet Yobo_211
+  - first:
+      213: 3512902635555506535
+    second: Spritesheet Yobo_212
+  - first:
+      213: -1378223382690213385
+    second: Spritesheet Yobo_213
+  - first:
+      213: 3764803104342737897
+    second: Spritesheet Yobo_214
+  - first:
+      213: 6896818216271964002
+    second: Spritesheet Yobo_215
+  - first:
+      213: 1776013624749629296
+    second: Spritesheet Yobo_216
+  - first:
+      213: -1204728845888957826
+    second: Spritesheet Yobo_217
+  - first:
+      213: 8811254407812865847
+    second: Spritesheet Yobo_218
+  - first:
+      213: 4578686142462799275
+    second: Spritesheet Yobo_219
+  - first:
+      213: 8510369151831962895
+    second: Spritesheet Yobo_220
+  - first:
+      213: 8420761139201722742
+    second: Spritesheet Yobo_221
+  - first:
+      213: 5536659150495673336
+    second: Spritesheet Yobo_222
+  - first:
+      213: 4548899812951181576
+    second: Spritesheet Yobo_223
+  - first:
+      213: -4511709675182789625
+    second: Spritesheet Yobo_224
+  - first:
+      213: 2202858642508450062
+    second: Spritesheet Yobo_225
+  - first:
+      213: 5729169426643743907
+    second: Spritesheet Yobo_226
+  - first:
+      213: 5752023270649559980
+    second: Spritesheet Yobo_227
+  - first:
+      213: -5320506314026643592
+    second: Spritesheet Yobo_228
+  - first:
+      213: -940573875524235623
+    second: Spritesheet Yobo_229
+  - first:
+      213: -7693295813683334071
+    second: Spritesheet Yobo_230
+  - first:
+      213: -185272836286183901
+    second: Spritesheet Yobo_231
+  - first:
+      213: -9002562317695411223
+    second: Spritesheet Yobo_232
+  - first:
+      213: -454453592460987701
+    second: Spritesheet Yobo_233
+  - first:
+      213: -8585778617465030750
+    second: Spritesheet Yobo_234
+  - first:
+      213: 6902083240523183039
+    second: Spritesheet Yobo_235
+  - first:
+      213: -1011823104027020304
+    second: Spritesheet Yobo_236
+  - first:
+      213: -4463951402209116035
+    second: Spritesheet Yobo_237
+  - first:
+      213: 3839277128959270249
+    second: Spritesheet Yobo_238
+  - first:
+      213: 4833227553206433305
+    second: Spritesheet Yobo_239
+  - first:
+      213: -8254870547128028374
+    second: Spritesheet Yobo_240
+  - first:
+      213: 2235316963052354079
+    second: Spritesheet Yobo_241
+  - first:
+      213: 7794815949241839100
+    second: Spritesheet Yobo_242
+  - first:
+      213: 7723370225498827526
+    second: Spritesheet Yobo_243
+  - first:
+      213: 7468622728505266478
+    second: Spritesheet Yobo_244
+  - first:
+      213: -3557737392285521031
+    second: Spritesheet Yobo_245
+  - first:
+      213: 259618350550196642
+    second: Spritesheet Yobo_246
+  - first:
+      213: 3506525841430869347
+    second: Spritesheet Yobo_247
+  - first:
+      213: -4934880759862674448
+    second: Spritesheet Yobo_248
+  - first:
+      213: 1286467705625908793
+    second: Spritesheet Yobo_249
+  - first:
+      213: 6456437537416703925
+    second: Spritesheet Yobo_250
+  - first:
+      213: 5831015640698473523
+    second: Spritesheet Yobo_251
+  - first:
+      213: 7842413674513234924
+    second: Spritesheet Yobo_252
+  - first:
+      213: -2204774541975293050
+    second: Spritesheet Yobo_253
+  - first:
+      213: -1937777921956741362
+    second: Spritesheet Yobo_254
+  - first:
+      213: 3517274357081528805
+    second: Spritesheet Yobo_255
+  - first:
+      213: 5226284779201268332
+    second: Spritesheet Yobo_256
+  - first:
+      213: 4808984029253379691
+    second: Spritesheet Yobo_257
+  - first:
+      213: -769833275438876479
+    second: Spritesheet Yobo_258
+  - first:
+      213: -98245064482897785
+    second: Spritesheet Yobo_259
+  - first:
+      213: 1011968881113287814
+    second: Spritesheet Yobo_260
+  - first:
+      213: -1851029332457526049
+    second: Spritesheet Yobo_261
+  - first:
+      213: 4644358527235215534
+    second: Spritesheet Yobo_262
+  - first:
+      213: -5859984037204736181
+    second: Spritesheet Yobo_263
+  - first:
+      213: -1229366033558030108
+    second: Spritesheet Yobo_264
+  - first:
+      213: -9009645782625629599
+    second: Spritesheet Yobo_265
+  - first:
+      213: 6674323995369397195
+    second: Spritesheet Yobo_266
+  - first:
+      213: 2102877841152950269
+    second: Spritesheet Yobo_267
+  - first:
+      213: -2441615753765493486
+    second: Spritesheet Yobo_268
+  - first:
+      213: 6760204570242330154
+    second: Spritesheet Yobo_269
+  - first:
+      213: -6375278316323819793
+    second: Spritesheet Yobo_270
+  - first:
+      213: -5593302859153965080
+    second: Spritesheet Yobo_271
+  - first:
+      213: 5433272905684365708
+    second: Spritesheet Yobo_272
+  - first:
+      213: -7776562419908746733
+    second: Spritesheet Yobo_273
+  - first:
+      213: 3626253824921422801
+    second: Spritesheet Yobo_274
+  - first:
+      213: 5734261234779129989
+    second: Spritesheet Yobo_275
+  - first:
+      213: 4843667027861539594
+    second: Spritesheet Yobo_276
+  - first:
+      213: -3685407167331099679
+    second: Spritesheet Yobo_277
+  - first:
+      213: 3309464078248798902
+    second: Spritesheet Yobo_278
+  - first:
+      213: 7352742159020319261
+    second: Spritesheet Yobo_279
+  - first:
+      213: 352016755914469607
+    second: Spritesheet Yobo_280
+  - first:
+      213: 5875803843542715896
+    second: Spritesheet Yobo_281
+  - first:
+      213: 6065011831206428617
+    second: Spritesheet Yobo_282
+  - first:
+      213: -2329503901163116787
+    second: Spritesheet Yobo_283
+  - first:
+      213: 6507658026624296563
+    second: Spritesheet Yobo_284
+  - first:
+      213: -1884151117331473460
+    second: Spritesheet Yobo_285
+  - first:
+      213: 5998349350398320082
+    second: Spritesheet Yobo_286
+  - first:
+      213: -7423024403770162968
+    second: Spritesheet Yobo_287
+  - first:
+      213: -8312732055910083447
+    second: Spritesheet Yobo_288
+  - first:
+      213: -1307318330382788168
+    second: Spritesheet Yobo_289
+  - first:
+      213: 5218781625020856413
+    second: Spritesheet Yobo_290
+  - first:
+      213: -1670671091702619090
+    second: Spritesheet Yobo_291
+  - first:
+      213: 9045283997236402909
+    second: Spritesheet Yobo_292
+  - first:
+      213: 73003468115256009
+    second: Spritesheet Yobo_293
+  - first:
+      213: 2278338164090475497
+    second: Spritesheet Yobo_294
+  - first:
+      213: -5572095427844517412
+    second: Spritesheet Yobo_295
+  - first:
+      213: 4038581882684645038
+    second: Spritesheet Yobo_296
+  - first:
+      213: -3097629015297765325
+    second: Spritesheet Yobo_297
+  - first:
+      213: 4063375973105953441
+    second: Spritesheet Yobo_298
+  - first:
+      213: -1136841284606300295
+    second: Spritesheet Yobo_299
+  - first:
+      213: 5730251856359638016
+    second: Spritesheet Yobo_300
+  - first:
+      213: -7980518871244712083
+    second: Spritesheet Yobo_301
+  - first:
+      213: 5265471977165328717
+    second: Spritesheet Yobo_302
+  - first:
+      213: -4024571258788451203
+    second: Spritesheet Yobo_303
+  - first:
+      213: 5910787395264889753
+    second: Spritesheet Yobo_304
+  - first:
+      213: 5096559474794205185
+    second: Spritesheet Yobo_305
+  - first:
+      213: -848651764943615633
+    second: Spritesheet Yobo_306
+  - first:
+      213: -8750591634829831192
+    second: Spritesheet Yobo_307
+  - first:
+      213: 4290061395371542156
+    second: Spritesheet Yobo_308
+  - first:
+      213: -1306340667742291153
+    second: Spritesheet Yobo_309
+  - first:
+      213: -303792797857012893
+    second: Spritesheet Yobo_310
+  - first:
+      213: 7344216123689881137
+    second: Spritesheet Yobo_311
+  - first:
+      213: -7748262308198812541
+    second: Spritesheet Yobo_312
+  - first:
+      213: 4085049259486796196
+    second: Spritesheet Yobo_313
+  - first:
+      213: -6969999096996260239
+    second: Spritesheet Yobo_314
+  - first:
+      213: 6440910376448549610
+    second: Spritesheet Yobo_315
+  - first:
+      213: 8338031689176634101
+    second: Spritesheet Yobo_316
+  - first:
+      213: 907579500537821385
+    second: Spritesheet Yobo_317
+  - first:
+      213: -3572811249867446837
+    second: Spritesheet Yobo_318
+  - first:
+      213: 7103548104291144268
+    second: Spritesheet Yobo_319
+  - first:
+      213: 879927210015320012
+    second: Spritesheet Yobo_320
+  - first:
+      213: 5338836519053279732
+    second: Spritesheet Yobo_321
+  - first:
+      213: -3663932673997484473
+    second: Spritesheet Yobo_322
+  - first:
+      213: 6820906923465044530
+    second: Spritesheet Yobo_323
+  - first:
+      213: 5213962422325391831
+    second: Spritesheet Yobo_324
+  - first:
+      213: 3888984566873712824
+    second: Spritesheet Yobo_325
+  - first:
+      213: -1697822736994016226
+    second: Spritesheet Yobo_326
+  - first:
+      213: -7242923364317930146
+    second: Spritesheet Yobo_327
+  - first:
+      213: 8998387931426618712
+    second: Spritesheet Yobo_328
+  - first:
+      213: -5999985342344836322
+    second: Spritesheet Yobo_329
+  - first:
+      213: -8219617736671324660
+    second: Spritesheet Yobo_330
+  - first:
+      213: 6209092547324232949
+    second: Spritesheet Yobo_331
+  - first:
+      213: -888434925182568132
+    second: Spritesheet Yobo_332
+  - first:
+      213: -563837712190363038
+    second: Spritesheet Yobo_333
+  - first:
+      213: -8011589517278806403
+    second: Spritesheet Yobo_334
+  - first:
+      213: -8690081749983872759
+    second: Spritesheet Yobo_335
+  - first:
+      213: -8589375456591756198
+    second: Spritesheet Yobo_336
+  - first:
+      213: -6885416059403925689
+    second: Spritesheet Yobo_337
+  - first:
+      213: -7027729892743117626
+    second: Spritesheet Yobo_338
+  - first:
+      213: 1423716446312250121
+    second: Spritesheet Yobo_339
+  - first:
+      213: -1733256194296868859
+    second: Spritesheet Yobo_340
+  - first:
+      213: 8571830612832721524
+    second: Spritesheet Yobo_341
+  - first:
+      213: 697610154515267618
+    second: Spritesheet Yobo_342
+  - first:
+      213: -4965848456658191730
+    second: Spritesheet Yobo_343
+  - first:
+      213: 389880557160105346
+    second: Spritesheet Yobo_344
+  - first:
+      213: 7309511040689508496
+    second: Spritesheet Yobo_345
+  - first:
+      213: 4435332033720893374
+    second: Spritesheet Yobo_346
+  - first:
+      213: -5172660881014108029
+    second: Spritesheet Yobo_347
+  - first:
+      213: -904912585373345233
+    second: Spritesheet Yobo_348
+  - first:
+      213: 6170462277246944719
+    second: Spritesheet Yobo_349
+  - first:
+      213: 7181257053905415880
+    second: Spritesheet Yobo_350
+  - first:
+      213: -3545140562665724051
+    second: Spritesheet Yobo_351
+  - first:
+      213: 9029624423890388863
+    second: Spritesheet Yobo_352
+  - first:
+      213: 5708166571973688954
+    second: Spritesheet Yobo_353
+  - first:
+      213: 5636482246840407231
+    second: Spritesheet Yobo_354
+  - first:
+      213: -8921394476138656445
+    second: Spritesheet Yobo_355
+  - first:
+      213: -7964055721687577203
+    second: Spritesheet Yobo_356
+  - first:
+      213: -1852790318131378333
+    second: Spritesheet Yobo_357
+  - first:
+      213: -8917385377199669940
+    second: Spritesheet Yobo_358
+  - first:
+      213: 6015312497323811031
+    second: Spritesheet Yobo_359
+  - first:
+      213: 2206778959185765124
+    second: Spritesheet Yobo_360
+  - first:
+      213: 3380672645935546734
+    second: Spritesheet Yobo_361
+  - first:
+      213: -447623359826988779
+    second: Spritesheet Yobo_362
+  - first:
+      213: 8597494303412624702
+    second: Spritesheet Yobo_363
+  - first:
+      213: -1733047503762336493
+    second: Spritesheet Yobo_364
+  - first:
+      213: 9201487538222500211
+    second: Spritesheet Yobo_365
+  - first:
+      213: -7644746646551973297
+    second: Spritesheet Yobo_366
+  - first:
+      213: -4360435371844496732
+    second: Spritesheet Yobo_367
+  - first:
+      213: 9155280874183101407
+    second: Spritesheet Yobo_368
+  - first:
+      213: -4201247584249288227
+    second: Spritesheet Yobo_369
+  - first:
+      213: -6809773703368753488
+    second: Spritesheet Yobo_370
+  - first:
+      213: 7951095842579883010
+    second: Spritesheet Yobo_371
+  - first:
+      213: -2901768740806706098
+    second: Spritesheet Yobo_372
+  - first:
+      213: -4459328860374554464
+    second: Spritesheet Yobo_373
+  - first:
+      213: 3345507437879462943
+    second: Spritesheet Yobo_374
+  - first:
+      213: 6020773407506398988
+    second: Spritesheet Yobo_375
+  - first:
+      213: -3983187019960909504
+    second: Spritesheet Yobo_376
+  - first:
+      213: -9737254624198242
+    second: Spritesheet Yobo_377
+  - first:
+      213: -5883133066475536856
+    second: Spritesheet Yobo_378
+  - first:
+      213: -5864889110879601034
+    second: Spritesheet Yobo_379
+  - first:
+      213: -3292666136775667401
+    second: Spritesheet Yobo_380
+  - first:
+      213: 1895695257692620536
+    second: Spritesheet Yobo_381
+  - first:
+      213: 8637104233681284540
+    second: Spritesheet Yobo_382
+  - first:
+      213: 8336098650787696392
+    second: Spritesheet Yobo_383
+  - first:
+      213: 6610093661052518936
+    second: Spritesheet Yobo_384
+  - first:
+      213: 7787537102134590213
+    second: Spritesheet Yobo_385
+  - first:
+      213: 1907562670426371961
+    second: Spritesheet Yobo_386
+  - first:
+      213: -1633381233366631674
+    second: Spritesheet Yobo_387
+  - first:
+      213: -5201577928984479810
+    second: Spritesheet Yobo_388
+  - first:
+      213: -1463364087061198815
+    second: Spritesheet Yobo_389
+  - first:
+      213: -7299849282913777111
+    second: Spritesheet Yobo_390
+  - first:
+      213: 6837669177526298750
+    second: Spritesheet Yobo_391
+  - first:
+      213: 2430937292098272956
+    second: Spritesheet Yobo_392
+  - first:
+      213: 7542972823351010498
+    second: Spritesheet Yobo_393
+  - first:
+      213: -5825412284925739832
+    second: Spritesheet Yobo_394
+  - first:
+      213: 8279609642574941848
+    second: Spritesheet Yobo_395
+  - first:
+      213: -3473687014286550780
+    second: Spritesheet Yobo_396
+  - first:
+      213: -1580882370579171311
+    second: Spritesheet Yobo_397
+  - first:
+      213: -8877781007063109023
+    second: Spritesheet Yobo_398
+  - first:
+      213: 8598775095282640176
+    second: Spritesheet Yobo_399
+  - first:
+      213: 7182983230383137392
+    second: Spritesheet Yobo_400
+  - first:
+      213: -8317635631098683395
+    second: Spritesheet Yobo_401
+  - first:
+      213: -8241673105652378511
+    second: Spritesheet Yobo_402
+  - first:
+      213: -3908023875347501334
+    second: Spritesheet Yobo_403
+  - first:
+      213: 5965094004258418969
+    second: Spritesheet Yobo_404
+  - first:
+      213: 225350933442573400
+    second: Spritesheet Yobo_405
+  - first:
+      213: 5298542841918695656
+    second: Spritesheet Yobo_406
+  - first:
+      213: -843402554909081433
+    second: Spritesheet Yobo_407
+  - first:
+      213: -90442764411715339
+    second: Spritesheet Yobo_408
+  - first:
+      213: 6562895503661733443
+    second: Spritesheet Yobo_409
+  - first:
+      213: -8041240731623644832
+    second: Spritesheet Yobo_410
+  - first:
+      213: 7533578599856253211
+    second: Spritesheet Yobo_411
+  - first:
+      213: -6948777055941102484
+    second: Spritesheet Yobo_412
+  - first:
+      213: 7281079424091563007
+    second: Spritesheet Yobo_413
+  - first:
+      213: -3336891172857273733
+    second: Spritesheet Yobo_414
+  - first:
+      213: 5620615002296058564
+    second: Spritesheet Yobo_415
+  - first:
+      213: 3052417781296469623
+    second: Spritesheet Yobo_416
+  - first:
+      213: -5022629422255896171
+    second: Spritesheet Yobo_417
+  - first:
+      213: 6719376421678238640
+    second: Spritesheet Yobo_418
+  - first:
+      213: 8469867936623498731
+    second: Spritesheet Yobo_419
+  - first:
+      213: -7418592562630171920
+    second: Spritesheet Yobo_420
+  - first:
+      213: -1595701032641957977
+    second: Spritesheet Yobo_421
+  - first:
+      213: -3039027578468267603
+    second: Spritesheet Yobo_422
+  - first:
+      213: 654828100830629151
+    second: Spritesheet Yobo_423
+  - first:
+      213: -4340469642558286943
+    second: Spritesheet Yobo_424
+  - first:
+      213: 4197040402268471559
+    second: Spritesheet Yobo_425
+  - first:
+      213: -1483735073663483562
+    second: Spritesheet Yobo_426
+  - first:
+      213: -8632306200510959363
+    second: Spritesheet Yobo_427
+  - first:
+      213: 3638097505755290053
+    second: Spritesheet Yobo_428
+  - first:
+      213: -8432525590627235309
+    second: Spritesheet Yobo_429
+  - first:
+      213: -8057477455030195286
+    second: Spritesheet Yobo_430
+  - first:
+      213: 5855139148185335806
+    second: Spritesheet Yobo_431
+  - first:
+      213: -1486123539837428687
+    second: Spritesheet Yobo_432
+  - first:
+      213: -1034454694517936350
+    second: Spritesheet Yobo_433
+  - first:
+      213: 1804569641366735765
+    second: Spritesheet Yobo_434
+  - first:
+      213: 7122722226005789883
+    second: Spritesheet Yobo_435
+  - first:
+      213: -6020004738065753173
+    second: Spritesheet Yobo_436
+  - first:
+      213: -5325948514006398950
+    second: Spritesheet Yobo_437
+  - first:
+      213: 7407920636452608125
+    second: Spritesheet Yobo_438
+  - first:
+      213: -6020037662302432100
+    second: Spritesheet Yobo_439
+  - first:
+      213: 7815467421202333301
+    second: Spritesheet Yobo_440
+  - first:
+      213: -4695497724799638109
+    second: Spritesheet Yobo_441
+  - first:
+      213: 3741823818584975666
+    second: Spritesheet Yobo_442
+  - first:
+      213: -5414548922204128569
+    second: Spritesheet Yobo_443
+  - first:
+      213: -644133906845598182
+    second: Spritesheet Yobo_444
+  - first:
+      213: 1630962833444281681
+    second: Spritesheet Yobo_445
+  - first:
+      213: -1186019134986029421
+    second: Spritesheet Yobo_446
+  - first:
+      213: -240026043088915957
+    second: Spritesheet Yobo_447
+  - first:
+      213: -6775000267460695981
+    second: Spritesheet Yobo_448
+  - first:
+      213: -8255708156029083020
+    second: Spritesheet Yobo_449
+  - first:
+      213: 6818511253810581786
+    second: Spritesheet Yobo_450
+  - first:
+      213: 1276939924722782112
+    second: Spritesheet Yobo_451
+  - first:
+      213: -8782627511641749598
+    second: Spritesheet Yobo_452
+  - first:
+      213: -5688538967000752153
+    second: Spritesheet Yobo_453
+  - first:
+      213: -8277147694168693001
+    second: Spritesheet Yobo_454
+  - first:
+      213: -6989386387816924408
+    second: Spritesheet Yobo_455
+  - first:
+      213: 3889710181126001286
+    second: Spritesheet Yobo_456
+  - first:
+      213: -801022250550242119
+    second: Spritesheet Yobo_457
+  - first:
+      213: -9165861943189322132
+    second: Spritesheet Yobo_458
+  - first:
+      213: -2588822012243516035
+    second: Spritesheet Yobo_459
+  - first:
+      213: -4970963813067686360
+    second: Spritesheet Yobo_460
+  - first:
+      213: -2044373175154079433
+    second: Spritesheet Yobo_461
+  - first:
+      213: -6874616944695749307
+    second: Spritesheet Yobo_462
+  - first:
+      213: 2388088155367257662
+    second: Spritesheet Yobo_463
+  - first:
+      213: -9080842809892871769
+    second: Spritesheet Yobo_464
+  - first:
+      213: -5135369865075459414
+    second: Spritesheet Yobo_465
+  - first:
+      213: -702472385023866684
+    second: Spritesheet Yobo_466
+  - first:
+      213: -8085613933135476017
+    second: Spritesheet Yobo_467
+  - first:
+      213: 1329250746035572728
+    second: Spritesheet Yobo_468
+  - first:
+      213: -1215960608739200140
+    second: Spritesheet Yobo_469
+  - first:
+      213: 8766878697886629650
+    second: Spritesheet Yobo_470
+  - first:
+      213: 3660544949723426421
+    second: Spritesheet Yobo_471
+  - first:
+      213: -5287749811639376384
+    second: Spritesheet Yobo_472
+  - first:
+      213: -8485176283703579535
+    second: Spritesheet Yobo_473
+  - first:
+      213: 4378402479729825545
+    second: Spritesheet Yobo_474
+  - first:
+      213: 4080832919153927264
+    second: Spritesheet Yobo_475
+  - first:
+      213: 7199234835165848084
+    second: Spritesheet Yobo_476
+  - first:
+      213: -2419771589092002184
+    second: Spritesheet Yobo_477
+  - first:
+      213: -3040014436603971351
+    second: Spritesheet Yobo_478
+  - first:
+      213: -5777933742571951494
+    second: Spritesheet Yobo_479
+  - first:
+      213: 5615901431289608279
+    second: Spritesheet Yobo_480
+  - first:
+      213: 2744314696530585202
+    second: Spritesheet Yobo_481
+  - first:
+      213: -1531803694851956436
+    second: Spritesheet Yobo_482
+  - first:
+      213: 7748559186537938400
+    second: Spritesheet Yobo_483
+  - first:
+      213: -8134984675631173962
+    second: Spritesheet Yobo_484
+  - first:
+      213: 2640753278494151661
+    second: Spritesheet Yobo_485
+  - first:
+      213: 6536826014204249202
+    second: Spritesheet Yobo_486
+  - first:
+      213: -825210443283364792
+    second: Spritesheet Yobo_487
+  - first:
+      213: -7745592030496821399
+    second: Spritesheet Yobo_488
+  - first:
+      213: -8373566400183295556
+    second: Spritesheet Yobo_489
+  - first:
+      213: -2020166427753118867
+    second: Spritesheet Yobo_490
+  - first:
+      213: 3504769218746979474
+    second: Spritesheet Yobo_491
+  - first:
+      213: -1904894791044995860
+    second: Spritesheet Yobo_492
+  - first:
+      213: -4977763317487345236
+    second: Spritesheet Yobo_493
+  - first:
+      213: 5149668042476403886
+    second: Spritesheet Yobo_494
+  - first:
+      213: 2985476573023207203
+    second: Spritesheet Yobo_495
+  - first:
+      213: 3924573918012349588
+    second: Spritesheet Yobo_496
+  - first:
+      213: 934857973425182168
+    second: Spritesheet Yobo_497
+  - first:
+      213: 6508395137620337435
+    second: Spritesheet Yobo_498
+  - first:
+      213: 8581331036975473557
+    second: Spritesheet Yobo_499
+  - first:
+      213: -8390686798923245982
+    second: Spritesheet Yobo_500
+  - first:
+      213: -7553217515994851763
+    second: Spritesheet Yobo_501
+  - first:
+      213: -1817973351611445912
+    second: Spritesheet Yobo_502
+  - first:
+      213: -2144849019794191039
+    second: Spritesheet Yobo_503
+  - first:
+      213: -7077295266365496892
+    second: Spritesheet Yobo_504
+  - first:
+      213: -3214251448688758669
+    second: Spritesheet Yobo_505
+  - first:
+      213: -8354065374156703079
+    second: Spritesheet Yobo_506
+  - first:
+      213: -6957006592581483544
+    second: Spritesheet Yobo_507
+  - first:
+      213: 2856259630248021843
+    second: Spritesheet Yobo_508
+  - first:
+      213: 7536233029955030242
+    second: Spritesheet Yobo_509
+  - first:
+      213: -3559733776332253379
+    second: Spritesheet Yobo_510
+  - first:
+      213: 6100603074676953835
+    second: Spritesheet Yobo_511
+  - first:
+      213: -5891221129099705316
+    second: Spritesheet Yobo_512
+  - first:
+      213: -2778637037619115642
+    second: Spritesheet Yobo_513
+  - first:
+      213: 9116834397462566459
+    second: Spritesheet Yobo_514
+  - first:
+      213: 1579516482468413167
+    second: Spritesheet Yobo_515
+  - first:
+      213: 644633377655797116
+    second: Spritesheet Yobo_516
+  - first:
+      213: -869600988263021213
+    second: Spritesheet Yobo_517
+  - first:
+      213: 3705917399548389396
+    second: Spritesheet Yobo_518
+  - first:
+      213: 4611934142515138233
+    second: Spritesheet Yobo_519
+  - first:
+      213: 3993334164821166950
+    second: Spritesheet Yobo_520
+  - first:
+      213: 3955664090558541549
+    second: Spritesheet Yobo_521
+  - first:
+      213: 5305854773757658625
+    second: Spritesheet Yobo_522
+  - first:
+      213: 5567743362257789402
+    second: Spritesheet Yobo_523
+  - first:
+      213: -698762798336426586
+    second: Spritesheet Yobo_524
+  - first:
+      213: 5540676585537602181
+    second: Spritesheet Yobo_525
+  - first:
+      213: -1517097740873855707
+    second: Spritesheet Yobo_526
+  - first:
+      213: 834797685868545078
+    second: Spritesheet Yobo_527
+  - first:
+      213: 8214246759655749289
+    second: Spritesheet Yobo_528
+  - first:
+      213: 2815145071096367260
+    second: Spritesheet Yobo_529
+  - first:
+      213: 8513952804816289627
+    second: Spritesheet Yobo_530
+  - first:
+      213: 2627914438429527234
+    second: Spritesheet Yobo_531
+  - first:
+      213: -562589274522973031
+    second: Spritesheet Yobo_532
+  - first:
+      213: -3344879198324991944
+    second: Spritesheet Yobo_533
+  - first:
+      213: 8801309299164108485
+    second: Spritesheet Yobo_534
+  - first:
+      213: -5795742287641999172
+    second: Spritesheet Yobo_535
+  - first:
+      213: 7845333906654500881
+    second: Spritesheet Yobo_536
+  - first:
+      213: -1171768430915759159
+    second: Spritesheet Yobo_537
+  - first:
+      213: 6835908367061794614
+    second: Spritesheet Yobo_538
+  - first:
+      213: 8293160830026675773
+    second: Spritesheet Yobo_539
+  - first:
+      213: 3426792714161542315
+    second: Spritesheet Yobo_540
+  - first:
+      213: -3436171300938255774
+    second: Spritesheet Yobo_541
+  - first:
+      213: -4666793519692114035
+    second: Spritesheet Yobo_542
+  - first:
+      213: -1253016815256200177
+    second: Spritesheet Yobo_543
+  - first:
+      213: -5594925714644403695
+    second: Spritesheet Yobo_544
+  - first:
+      213: -4688783626624984736
+    second: Spritesheet Yobo_545
+  - first:
+      213: -4947883250547908429
+    second: Spritesheet Yobo_546
+  - first:
+      213: -474959437009199863
+    second: Spritesheet Yobo_547
+  - first:
+      213: 7644000530482977401
+    second: Spritesheet Yobo_548
+  - first:
+      213: 2829668039934591648
+    second: Spritesheet Yobo_549
+  - first:
+      213: 6431406013621018280
+    second: Spritesheet Yobo_550
+  - first:
+      213: 3948647298604839095
+    second: Spritesheet Yobo_551
+  - first:
+      213: 3505642172872302276
+    second: Spritesheet Yobo_552
+  - first:
+      213: -5505433992860232011
+    second: Spritesheet Yobo_553
+  - first:
+      213: 6189501251029437193
+    second: Spritesheet Yobo_554
+  - first:
+      213: -6028384891275497229
+    second: Spritesheet Yobo_555
+  - first:
+      213: 5142547710858580677
+    second: Spritesheet Yobo_556
+  - first:
+      213: 8787918019948446040
+    second: Spritesheet Yobo_557
+  - first:
+      213: -2289541885792557687
+    second: Spritesheet Yobo_558
+  - first:
+      213: 2957224734494767490
+    second: Spritesheet Yobo_559
+  - first:
+      213: 5050159262496788172
+    second: Spritesheet Yobo_560
+  - first:
+      213: -6673758094828848998
+    second: Spritesheet Yobo_561
+  - first:
+      213: 8575829711322718684
+    second: Spritesheet Yobo_562
+  - first:
+      213: -3875540504602480414
+    second: Spritesheet Yobo_563
+  - first:
+      213: 2245003015487819397
+    second: Spritesheet Yobo_564
+  - first:
+      213: 3763258721913878515
+    second: Spritesheet Yobo_565
+  - first:
+      213: 5082347678798414330
+    second: Spritesheet Yobo_566
+  - first:
+      213: 2408266470579522829
+    second: Spritesheet Yobo_567
+  - first:
+      213: -8652061331091217204
+    second: Spritesheet Yobo_568
+  - first:
+      213: 5716412067635667887
+    second: Spritesheet Yobo_569
+  - first:
+      213: 3924856977355518197
+    second: Spritesheet Yobo_570
+  - first:
+      213: -8219862224680470558
+    second: Spritesheet Yobo_571
+  - first:
+      213: -2048857370047307229
+    second: Spritesheet Yobo_572
+  - first:
+      213: -7495247527782841432
+    second: Spritesheet Yobo_573
+  - first:
+      213: -3018046916044398316
+    second: Spritesheet Yobo_574
+  - first:
+      213: -2925335121696566183
+    second: Spritesheet Yobo_575
+  - first:
+      213: -2616447065191535270
+    second: Spritesheet Yobo_576
+  - first:
+      213: -2940317521199417372
+    second: Spritesheet Yobo_577
+  - first:
+      213: 6229123245647933259
+    second: Spritesheet Yobo_578
+  - first:
+      213: -8043909962339855566
+    second: Spritesheet Yobo_579
+  - first:
+      213: 1916730968394204094
+    second: Spritesheet Yobo_580
+  - first:
+      213: -8235313020619647681
+    second: Spritesheet Yobo_581
+  - first:
+      213: 8306770804423140754
+    second: Spritesheet Yobo_582
+  - first:
+      213: -5628158719968187581
+    second: Spritesheet Yobo_583
+  - first:
+      213: -8564390734602508961
+    second: Spritesheet Yobo_584
+  - first:
+      213: -7101060468309429520
+    second: Spritesheet Yobo_585
+  - first:
+      213: 447859416912213877
+    second: Spritesheet Yobo_586
+  - first:
+      213: 7383153865505263737
+    second: Spritesheet Yobo_587
+  - first:
+      213: -4154998889874299564
+    second: Spritesheet Yobo_588
+  - first:
+      213: 8022264564811967320
+    second: Spritesheet Yobo_589
+  - first:
+      213: -513105839877097313
+    second: Spritesheet Yobo_590
+  - first:
+      213: -3429020292398629835
+    second: Spritesheet Yobo_591
+  - first:
+      213: 6519440863336785171
+    second: Spritesheet Yobo_592
+  - first:
+      213: -1445043227650037263
+    second: Spritesheet Yobo_593
+  - first:
+      213: -7916408943602520484
+    second: Spritesheet Yobo_594
+  - first:
+      213: 7372167253112054747
+    second: Spritesheet Yobo_595
+  - first:
+      213: -1203203168943570975
+    second: Spritesheet Yobo_596
+  - first:
+      213: 8150864230872513974
+    second: Spritesheet Yobo_597
+  - first:
+      213: -4433936064788522353
+    second: Spritesheet Yobo_598
+  - first:
+      213: -241389822108805788
+    second: Spritesheet Yobo_599
+  - first:
+      213: 8582240804888756467
+    second: Spritesheet Yobo_600
+  - first:
+      213: -7008194480496907592
+    second: Spritesheet Yobo_601
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet Yobo_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1442
+        width: 411
+        height: 418
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a30442f22410ac0800000000000000
+      internalID: -3890755832832312790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1442
+        width: 422
+        height: 412
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d752991eef0bde0800000000000000
+      internalID: -1319274445929087678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1442
+        width: 413
+        height: 418
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51959a45d36c019a0800000000000000
+      internalID: -6264289114956670699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_4
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1423
+        width: 417
+        height: 446
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e68cb567d09bc0800000000000000
+      internalID: -3778283255409220769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 944
+        width: 414
+        height: 428
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289c6273159a7fa10800000000000000
+      internalID: 1943207930516392322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 941
+        width: 406
+        height: 431
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa28ed7e19c9bc0800000000000000
+      internalID: -3774981962586738862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 945
+        width: 416
+        height: 428
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbc734d2e5e20800800000000000000
+      internalID: 577276464642640841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_10
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 954
+        width: 410
+        height: 418
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1ec9bb09853abe0800000000000000
+      internalID: -1467231674946494007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_11
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1428
+        width: 418
+        height: 442
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa105b10674a9aa10800000000000000
+      internalID: 1921247542791963050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_12
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 963
+        width: 421
+        height: 412
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c03c897bd513a50800000000000000
+      internalID: 6499078780395654222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 485
+        width: 410
+        height: 413
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4674b07edd2b27970800000000000000
+      internalID: 8751253692068087652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 61
+        width: 423
+        height: 426
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1a1dc3c938eb90800000000000000
+      internalID: -7212451290111402070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 482
+        width: 409
+        height: 427
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46767c257e18810800000000000000
+      internalID: 1765946871624721607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_19
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 479
+        width: 410
+        height: 436
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a30545512b5ce0800000000000000
+      internalID: -1415501007764086263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_20
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 485
+        width: 420
+        height: 424
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17c4bda3e8e7cd00800000000000000
+      internalID: 993018307428009754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 409
+        height: 430
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64cd9b3012b0dae0800000000000000
+      internalID: -1526524490889182102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_23
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 52
+        width: 409
+        height: 425
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3316314268da080800000000000000
+      internalID: -9174529376381750334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_24
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 49
+        width: 407
+        height: 423
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2926e0782d165b80800000000000000
+      internalID: -8406499594910422741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_25
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 51
+        width: 401
+        height: 413
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d20e86f3f162f60800000000000000
+      internalID: 8009123344527928692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Yobo_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 482
+        width: 404
+        height: 417
+      alignment: 9
+      pivot: {x: 0.1280025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e5887079e26ad40800000000000000
+      internalID: 5595210813255736889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 61b113f168b64a347b03f32d2953ed33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
